@@ -1,0 +1,4 @@
+Account Number,Account Name,Account Description,Parent Account Number,"Account type -(1 - Asset, 2 - Liability, 3 - Income, 4 - Expense, 5 -Equity)", Amount ,Balance as of
+5000,Equity,Capital,0,5,2000000,2/6/2018
+1100,Bank Account,Bank Account,0,1,100000,1/6/2018
+1101,Metrobank,Metrobank Checking Account,1100,1,50000,1/6/2018
